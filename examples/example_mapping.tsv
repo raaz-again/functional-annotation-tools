@@ -1,0 +1,4 @@
+gene_id	function_id	description	database
+gene_001	K00844	hexokinase	KEGG
+gene_002	COG0057	glyceraldehyde-3-phosphate dehydrogenase	COG
+gene_003	PF00069	Protein kinase domain	Pfam
